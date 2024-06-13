@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="Item" load_steps=2 format=3 uid="uid://ffnnk584bn3i"]
+
+[ext_resource type="Script" path="res://Game Data/Resources/Items/Item-Class.gd" id="1_1b3yd"]
+
+[resource]
+script = ExtResource("1_1b3yd")
+item_name = ""
+item_type = 0
+item_rarity = 0
+description = ""
+gold_value = 1

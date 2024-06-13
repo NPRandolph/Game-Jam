@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cv1jf4gcf7jo2"]
+
+[ext_resource type="Script" path="res://Game Systems/Managers/EventHandler.gd" id="1_koosi"]
+
+[node name="GameManager" type="Node"]
+script = ExtResource("1_koosi")

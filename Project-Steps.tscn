@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b6dga146og4cl"]
+
+[ext_resource type="Script" path="res://Game Data/Resources/Items/Armor/Armor-Class.gd" id="1_4lfqb"]
+
+[node name="Project Steps" type="Node"]
+script = ExtResource("1_4lfqb")

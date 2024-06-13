@@ -1,0 +1,15 @@
+NEXT STEPS
+[H:High, M: Medium, L:Low]
+
+HIGH PRIORITY
+H. - Calculate Stats [Set/Get] using Archetype variables.
+H. - UI that shows [Stats] of [Character]
+
+MEDIUM PRIORITY
+M. - Class for [Trinket]
+M. - Classes for [Actions, Action Data, Skills]
+
+LOW PRIORITY
+L. - Combat Scene with Grid
+L. - Add [Inventory] to [Character]
+

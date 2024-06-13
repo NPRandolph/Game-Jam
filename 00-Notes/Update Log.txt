@@ -1,0 +1,16 @@
+UPDATE LOG
+* Add a summary of what you do each time you work on the project.
+
+6/10/2024
+- Created File System
+- Created [Base-Character-Scene]
+- Added Character [Class]
+- Created Archetype [Class]
+- Added Archetype Resources [Barbarian, Wizard, Monk]
+- Created Item [Class] & "Default Item" Resource
+
+6/11/2024 - [AM]
+- Created Armor [Class] that extends [Item]
+- Created Weapon [Class] that extends [Item]
+- Added [Update Log] to Notes
+- Added NEXT STEPS

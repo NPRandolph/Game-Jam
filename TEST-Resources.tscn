@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://btvlqxp7ijmq4"]
+
+[ext_resource type="Script" path="res://Game Data/Resources/Action.gd" id="1_aexes"]
+
+[node name="Node" type="Node"]
+script = ExtResource("1_aexes")

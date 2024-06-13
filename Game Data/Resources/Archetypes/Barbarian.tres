@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Archetype" load_steps=2 format=3 uid="uid://c6bq151uwjwsh"]
+
+[ext_resource type="Script" path="res://Game Data/Resources/Archetypes/Archetype-Class.gd" id="1_4sscx"]
+
+[resource]
+script = ExtResource("1_4sscx")
+archetype = "Barbarian"
+strength = 6
+magic = 4
+focus = 2

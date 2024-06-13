@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="Archetype" load_steps=2 format=3 uid="uid://dibvhx8r0q6nl"]
+
+[ext_resource type="Script" path="res://Game Data/Resources/Archetypes/Archetype-Class.gd" id="1_8ky25"]
+
+[resource]
+script = ExtResource("1_8ky25")
+archetype = ""
+strength = 0
+magic = 0
+focus = 0
